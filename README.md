@@ -1,2 +1,2 @@
 # go-sudoku
-Suduku one solution backtracking in Go
+Sudoku one solution backtracking in Go
